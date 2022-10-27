@@ -1,1 +1,1 @@
-# Answer To All Tutorials is attached in class slides
+# Answer To All Submissions is attached in class slides
