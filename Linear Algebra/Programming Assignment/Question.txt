@@ -1,0 +1,22 @@
+Write a program in Python to determine whether a given subset of (Z/2Z)^4 is a subspace or not.
+
+
+Your program should take as input a comma-separated list of 4-tuples of 0s and 1s, either as user input or read from a text file (you can choose whichever way suits you). 
+
+
+In case your input is typed by the user, you should mention the exact format in which the input should be typed in your documentation.
+
+
+Your documentation can either be in the form of a separate pdf or as comments in your code. Either is fine. (If you name your identifiers in a way that your code is self-explanatory then you should not have to worry too much about documentation.)
+
+
+If your code runs properly and gives the desired output for all test cases, then we will not really look at your documentation. 
+
+
+However, if your code does not work as expected, then you will be given partial credit depending upon how easy it is to understand the code that you've written, and whether it is possible to debug it easily, if at all. 
+
+
+Your output needs to be True or False. You do not need to print out any of your computations. 
+
+
+You may refer to the PDF attached for an explanation of all theoretical terms used. Please read it thoroughly before starting on the assignment.
