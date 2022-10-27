@@ -1,7 +1,0 @@
-Problems from David C. Lay text (3rd edition):
-
-
-Section 1.4: 5,  8, 9, 10, 11, 16, 17 (no need to mention any theorem), 23, 24 (a,b,c,e), 25, 26, 27
-
-
-Section 1.5: 3, 6, 7, 12, 15, 18, 20, 23, 24 (a,c,d), 26, 27, 33
