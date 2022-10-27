@@ -4,6 +4,7 @@ Created during 2022 <br />
 *	Contains Assignment
 * Quizzes
 * Books
+* Combined Lecture Notes(Issue with github,download file and open)
 * Programming Assignment With Solutions
 * <i>**Grading Scheme(Absolute Grading)**</i><br>
 Midsem: 20% <br>
